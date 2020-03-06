@@ -1,0 +1,6 @@
+[submodule "dependencies/sagemaker-tensorflow-container"]
+	path = dependencies/sagemaker-tensorflow-container
+	url = https://github.com/aws/sagemaker-tensorflow-container.git
+[submodule "dependencies/sagemaker-containers"]
+	path = dependencies/sagemaker-containers
+	url = https://github.com/aws/sagemaker-containers.git
